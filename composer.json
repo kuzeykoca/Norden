@@ -1,0 +1,19 @@
+{
+  "name": "flottlink/norden",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Norden\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Kuzey Koca",
+      "email": "kuzeykodga@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.3",
+    "ext-json": "*"
+  }
+}
